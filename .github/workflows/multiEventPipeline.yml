@@ -10,6 +10,7 @@ on:
                 - master
             types:
                 - closed
+                - opened
     workflow_dispatch: # Event: A UI button will be given to execute the workflow
 
 
